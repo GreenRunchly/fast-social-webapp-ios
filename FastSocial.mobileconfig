@@ -486,17 +486,17 @@
 			<key>PayloadDisplayName</key>
 			<string>Web Clip</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.webClip.managed.BEA4C3C3-FDDF-4EC0-BA08-08E0437E28CE</string>
+			<string>com.apple.webClip.managed.667E8A68-CF1A-4BB7-92F9-930B7BEA62BA</string>
 			<key>PayloadType</key>
 			<string>com.apple.webClip.managed</string>
 			<key>PayloadUUID</key>
-			<string>BEA4C3C3-FDDF-4EC0-BA08-08E0437E28CE</string>
+			<string>667E8A68-CF1A-4BB7-92F9-930B7BEA62BA</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>Precomposed</key>
 			<true/>
 			<key>URL</key>
-			<string>https://fasturl.cloud/FastSocial</string>
+			<string>https://fasturl.ieu.link/</string>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
@@ -512,7 +512,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>7023D70C-020A-469F-86DD-B6932E0C5E94</string>
+	<string>A2FACF00-67E9-43E4-B44C-0E73DDF85668</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
